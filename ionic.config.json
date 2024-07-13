@@ -1,0 +1,7 @@
+{
+  "name": "itla-c2-2024-apps-tarea-8-agents",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
