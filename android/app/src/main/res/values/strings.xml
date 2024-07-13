@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">itla-c2-2024-apps-tarea-8-agents</string>
+    <string name="title_activity_main">itla-c2-2024-apps-tarea-8-agents</string>
+    <string name="package_name">io.ionic.starter</string>
+    <string name="custom_url_scheme">io.ionic.starter</string>
+</resources>
